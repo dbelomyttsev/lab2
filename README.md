@@ -1,16 +1,14 @@
-# laba2
+# Лабораторная работа №1
 
-A new Flutter project.
+#### Описание
+Приложение написано для изучения компоновки элементов.
 
-## Getting Started
+#### Используемые технологии
+* Dart
+* Flutter Framework
+* Flutter SDK
+* Dart Packages
 
-This project is a starting point for a Flutter application.
+#### Инструкция по запуску приложения 
+1. git clone https://github.com/dbelomyttsev/lab2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
